@@ -12,7 +12,7 @@ Once you have saved it with a name, you will have to refresh so script is runnin
 - Download Tampermonkey as an browser extension if you have not already (follow the instructors for your browser on https://www.tampermonkey.net)
 - Once installed open up the Tampermonkey extension main menu (usually there is a extension icon that you have to click, for MS Edge it is the jigsaw piece at the top right)
 - Once opened up, click on Dashboard ![image](https://github.com/user-attachments/assets/80649d12-f868-4c3b-a384-4f985632a362)
-- Then click on the button named Utilities ![image](https://github.com/user-attachments/assets/5ecc43e5-ee4b-46d9-b3a3-ee8258afc711)
+- Then click on the button named Utilities ![image](https://github.com/user-attachments/assets/ab31e923-e122-4bef-b1f0-e332cced011d)
 - Then in the Import From File section, click Upload from file, and select the file you just downloaded
 - Then follow the instructions to add the script to Tampermonkey
 
