@@ -5,8 +5,8 @@ For some reason Desmos has no auto save feature, so I while back I decided to ma
 **Note that the script can break due to changes in how Desmos is coded
 
 ## Installation
-Requirements: You must be logged in and have saved the graph with a name (you can tell if this is the case if the link is https://www.desmos.com/calculator/*, where * is a random string)
-Once you have saved it with a name, you will have to refresh so script is running
+Requirements: You must be logged in and have saved the graph with a name (you can tell if this is the case if the link is https://www.desmos.com/calculator/*, where * is a random string).
+Once you have saved it with a name, you will have to refresh so the script is running.
 
 - Download the file (called Desmos Auto-Save-x.user.js, where x is the version number)
 - Download Tampermonkey as an browser extension if you have not already (follow the instructors for your browser on https://www.tampermonkey.net)
@@ -19,7 +19,7 @@ Once you have saved it with a name, you will have to refresh so script is runnin
 ## Usage
 The script will (hopefully!) work on its own, and the auto-save timer can be adjusted by opening up Tampermonkey's main menu and selecting the script and editing it.
 You will need to edit this part: \
-![image](https://github.com/user-attachments/assets/5c1776b0-06e8-4415-be26-acaef078a6bc)
+![image](https://github.com/user-attachments/assets/5c1776b0-06e8-4415-be26-acaef078a6bc) \
 **NOTE that the time is in miliseconds (1000 ms = 1s)
 
 
