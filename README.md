@@ -18,7 +18,7 @@ Once you have saved it with a name, you will have to refresh so script is runnin
 
 ## Usage
 The script will (hopefully!) work on its own, and the auto-save timer can be adjusted by opening up Tampermonkey's main menu and selecting the script and editing it.
-You will need to edit this part:
+You will need to edit this part: \
 ![image](https://github.com/user-attachments/assets/5c1776b0-06e8-4415-be26-acaef078a6bc)
 **NOTE that the time is in miliseconds (1000 ms = 1s)
 
