@@ -5,7 +5,6 @@
 // @description  Auto-save desmos because it is not a feature for some reason
 // @author       Eric Song
 // @match        https://www.desmos.com/calculator/*
-// @icon         https://cdn.discordapp.com/attachments/1099736002651754590/1099736058972872774/communityIcon_23j1hfiv5vc21.png
 // @grant        none
 // ==/UserScript==
 
